@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Discord @Ali-TM-original](https://discord.com/users/410452466631442443) ...
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: Don't actually have any idea what to write here.
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-TM-original&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
