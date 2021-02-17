@@ -7,6 +7,7 @@ Lately i have been working on Discord.py bots and have made quite advancements i
 **Ali-TM-original/Ali-TM-original** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+## Somethings about me:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Disord.py bots.
