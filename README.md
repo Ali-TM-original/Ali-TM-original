@@ -5,6 +5,7 @@ I am just a Student trying to learn the art of programming. I have around 3 mont
 Lately i have been working on Discord.py bots and have made quite advancements in discord.py although i do not consider myself an expert in this field :) buy i am pretty sure i am good at it.XD
 <!--
 **Ali-TM-original/Ali-TM-original** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -16,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord Ali™#4294 ...
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: Don't actually have any idea what to write here.
--->
