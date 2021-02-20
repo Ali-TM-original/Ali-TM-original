@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Disord.py bots.
 - 🌱 I’m currently learning OOP and CV2.
 - 👯 I’m looking to collaborate on.
-- 🤔 I’m looking for help with.
+- 🤔 I’m looking for help with money lmao.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Discord @Ali-TM-original](https://discord.com/users/410452466631442443) ...
 - 😄 Pronouns: He/His.
