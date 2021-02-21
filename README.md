@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything Python
 - 📫 How to reach me: [Discord @Ali-TM-original](https://discord.com/users/410452466631442443) ...
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: Don't actually have any idea what to write here.
+- ⚡ Fun fact: A glockenspiel is a musical instrument that is like a xylophone. It has a series of metal bars and is played with two hammers.
+- Don't judge me took the fun fact from my discord bot XD
 - Currently learning KOTLIN
 - Intermediate at Python :)
 
