@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 - Currently learning KOTLIN
 - Intermediate at Python :)
 
-![](https://komarev.com/ghpvc/?username=Ali-TM-original)
+# Visitors
+![Visitor Count](https://profile-counter.glitch.me/{Ali-TM-original}/count.svg)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ali-TM-original&&show_icons=true&title_color=6723D6&icon_color=bb2acf&text_color=daf7dc&bg_color=170B2B">
 
