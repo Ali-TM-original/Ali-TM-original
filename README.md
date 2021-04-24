@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Disord.py bots.
 - 🌱 I’m currently learning OOP and CV2.
-- 👯 I’m looking to collaborate on.
+- 👯 I’m looking to collaborate on Discord.py bots and small to medium scale web dev projects.
 - 🤔 I’m looking for help with money lmao.
 - 💬 Ask me about anything Python
 - 📫 How to reach me: [Discord @Ali-TM-original](https://discord.com/users/410452466631442443) ...
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: A glockenspiel is a musical instrument that is like a xylophone. It has a series of metal bars and is played with two hammers.
 - Don't judge me took the fun fact from my discord bot XD
-- Currently learning KOTLIN
+- Currently learning C++ 
+- Current project: Website for a discord.py bot, Personal use site
+- Interested in web dev and game dev
 - Intermediate at Python :)
 
 # Visitors
