@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-TM-original&theme=algolia">
 
+[![Ali™'s github activity graph](https://activity-graph.herokuapp.com/graph?username=Ali-TM-original&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <h3 class="center">Experience and Tools 🛠️</h3>
 <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" class="center"></a>
 <br>
