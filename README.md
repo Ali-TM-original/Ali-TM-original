@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-TM-original&theme=algolia">
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ali-TM-original&theme=dracula)]
+[Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ali-TM-original&theme=dracula)
 
 
 <h3 class="center">Experience and Tools 🛠️</h3>
