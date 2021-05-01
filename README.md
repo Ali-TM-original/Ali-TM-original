@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: A glockenspiel is a musical instrument that is like a xylophone. It has a series of metal bars and is played with two hammers.
 - Don't judge me took the fun fact from my discord bot XD
-- Currently learning C++ 
+- Currently learning Javascript
 - Current project: Website for a discord.py bot, Personal use site
+- Main Project(of year): Build a fully functioning Chatapp (will be a web app)
 - Interested in web dev and game dev
 - Intermediate at Python :)
 
