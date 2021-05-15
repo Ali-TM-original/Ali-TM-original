@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 
 <h3 class="center">Experience and Tools 🛠️</h3>
-<a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" class="center"></a>
-<br>
-<a href="https://sqlite.org"><img src="https://img.shields.io/badge/SQLite-47a248?style=for-the-badge&logo=sqlite&logoColor=white" class="center"></a>
-<br>
-<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" class="center"></a>
+<img src="https://img.icons8.com/dusk/2x/python.png" class="center">
+<img src="https://cdn.iconscout.com/icon/free/png-256/sqlite-282687.png" class="center">
+<img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" class="center">
+<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" class="center">
+<img src="https://img.icons8.com/color/452/nodejs.png">
 <br>
