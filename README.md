@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 
 
 <h3 class="center">Experience and Tools 🛠️</h3>
-<img src="https://img.icons8.com/dusk/2x/python.png" class="center">
 <img src="https://cdn.iconscout.com/icon/free/png-256/sqlite-282687.png" class="center">
 <img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" class="center">
 <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" class="center">
