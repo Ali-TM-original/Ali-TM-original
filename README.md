@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 
 ![Ali™'s github activity graph](https://activity-graph.herokuapp.com/graph?username=Ali-TM-original&theme=dracula)
 
+<h3 class="center">Status 📄</h3>
+<a href="https://discord.com/users/410452466631442443"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/438672336921690112.png"></a>
 
 <h3 class="center">Experience and Tools 🛠️</h3>
 <img src="https://cdn.iconscout.com/icon/free/png-256/sqlite-282687.png" class="center">
