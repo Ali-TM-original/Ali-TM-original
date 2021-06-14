@@ -45,8 +45,16 @@ Here are some ideas to get you started:
 <br>
 
 <h3 class="center">Experience and Tools 🛠️</h3>
-<img src="https://cdn.iconscout.com/icon/free/png-256/sqlite-282687.png" class="center">
-<img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" class="center">
-<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" class="center">
-<img src="https://img.icons8.com/color/452/nodejs.png">
+<h3 class="center">Experience and Tools 🛠️</h3>
+<a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" class="center"></a>
+<br>
+<a href="https://en.m.wikipedia.org/wiki/HTML"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
+<br>
+<a href="https://en.m.wikipedia.org/wiki/CSS"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a>
+<br>
+<a href="https://en.m.wikipedia.org/wiki/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<br>
+<a href="https://sqlite.org"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-47a248?style=for-the-badge&logo=sqlite&logoColor=white" class="center"></a>
+<br>
+<a href="https://code.visualstudio.com"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" class="center"></a>
 <br>
