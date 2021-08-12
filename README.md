@@ -4,9 +4,9 @@
 
 ### Howdy 👋
 
-I am just a Student trying to learn the art of programming. I have around 8 months of experience till now, have really been fascinated with the world of code.
-
-Lately i have been working on Discord.py bots and have made quite advancements in discord.py although i do not consider myself an expert in this field :) buy i am pretty sure i am good at it.XD
+I am just a Student trying to learn the art of programming. I have around 16 months of experience till now, have really been fascinated with the world of code.
+Lately I have been gaining interested in mobile development, taking small steps learning React Native and taking initiative of learning Flutter/Dart
+Apart from that I am a full stack web developer. I have made multiple websites for local and global businesses. Fun Fact last month made a Web App for a super market last month ;)
 <!--
 **Ali-TM-original/Ali-TM-original** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
