@@ -2,17 +2,17 @@
   <img align="center" src="https://camo.githubusercontent.com/9ad8cfe3215fff758ea74784f86ef0de25b6acfbd6a4fab19d9a13ff47b05843/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667" />
 </a>
 
-### Howdy 👋
+<h1 align="center">Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Ali</h1>
 
-I am just a Student trying to learn the art of programming. I have around 16 months of experience till now, have really been fascinated with the world of code.
+
+<h3 align="center">I am just a Student trying to learn the art of programming. I have around 16 months of experience till now, have really been fascinated with the world of code.
 Lately I have been gaining interested in mobile development, taking small steps learning React Native and taking initiative of learning Flutter/Dart
-Apart from that I am a full stack web developer. I have made multiple websites for local and global businesses. Fun Fact last month made a Web App for a super market last month ;)
+Apart from that I am a full stack web developer. I have made multiple websites for local and global businesses. Fun Fact last month made a Web App for a super market last month ;)</h3>
 <!--
 **Ali-TM-original/Ali-TM-original** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<h1 align="center">Somethings about me:</h1>
 
-## Somethings about me:
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on FastApi api's.
 - 🌱 I’m currently learning React Native.
