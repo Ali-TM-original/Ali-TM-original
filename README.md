@@ -13,11 +13,10 @@ Apart from that I am a full stack web developer. I have made multiple websites f
 <h1 align="center">Somethings about me:</h1>
 
 
-- 🔭 I’m currently working on FastApi api's.
-- 🌱 I’m currently learning React Native.
-- 👯 I’m looking to collaborate on Discord.py bots and small to medium scale web dev projects.
+
 - 📫 How to reach me: [Discord @Ali-TM-original](https://discord.com/users/410452466631442443) ...
 - 😄 Pronouns: He/His.
+- Give me some good ideas 💯
 - Currently learning Javascript
 - Interested in web dev and game dev
 - Intermediate at Python and Javascript :)
