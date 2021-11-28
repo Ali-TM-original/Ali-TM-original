@@ -23,23 +23,21 @@ Apart from that I am a full stack web developer. I have made multiple websites f
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ali-TM-original&&show_icons=true&title_color=6723D6&icon_color=bb2acf&text_color=daf7dc&bg_color=170B2B">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-TM-original&theme=algolia">
+
+
 
 ![Ali™'s github activity graph](https://activity-graph.herokuapp.com/graph?username=Ali-TM-original&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-TM-original&theme=algolia">
 
+  ![Visitor Count](https://profile-counter.glitch.me/{Ali-TM-original}/count.svg)
   
-  
-<h3 class="center">Status 📄</h3>
-<a href="https://discord.com/users/410452466631442443"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-2/410452466631442443.png"></a>
+
 </div>
 
 <hr>
 
 <br>
-
-![Visitor Count](https://profile-counter.glitch.me/{Ali-TM-original}/count.svg)
 <br>
 
 <h3 class="center">Experience and Tools 🛠️</h3>
