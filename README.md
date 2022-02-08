@@ -1,54 +1,77 @@
 
-<h1 align="center">Howdy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Ali</h1>
+<p align="center">
+  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Ali™</a>'s Profile 👋</h1>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Welcome+to+my+github+profile!;I+am+a+full+stack+web+dev;I+am+an+average+CTF+enjoyer;I+am+a+React+Native+dev;I+am+a+Student+and+an+average+mint+user+%3A" /></a>
+</p>
+<p>Hey, 
+</p>
+<img align="right" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/computers.gif">
+<ul>
+  <li>👋 Hi, I’m @Ali™</li>
+  <li>❤️ I love Creating websites and Programming in Python.</li>
+  <li>I am Currently learning Rust and Completing my Studies</li>
+  <li>Portfolio Website built with React JS, https://www.alidev.tech/</li>
+</ul>
 
+#### A little more about me
+```fix
+I am just a Student trying to learn the art of
+programming. I have around 16 months of
+experience till now, have really been 
+fascinated with the world of code. Lately I 
+have been gaining interested in mobile
+development, taking small steps learning 
+React Native and taking initiative of 
+learning Flutter/Dart Apart from that I am a 
+full stack web developer. 
+I have made multiple websites for
+ local and global businesses.
+```
 
-<h3 align="center">I am just a Student trying to learn the art of programming. I have around 16 months of experience till now, have really been fascinated with the world of code.
-Lately I have been gaining interested in mobile development, taking small steps learning React Native and taking initiative of learning Flutter/Dart
-Apart from that I am a full stack web developer. I have made multiple websites for local and global businesses.
+#### My GitHub Data :octocat:
+> 🏆 700+ Contributions in the Year 2021
+> 
+> 📜 600+ Commits on GitHub
+> 
+> 🔑 30+ Contribution in Private Repos 
+> 
 
-<h1 align="center">Somethings about me:</h1>
-
-
-
-- How to reach me: [Discord @Ali-TM-original](https://discord.com/users/410452466631442443) ...
-- 😄 Pronouns: He/His.
-- Give me some good ideas 💯
-- Currently learning Javascript
-- Interested in web dev and game dev
-- Intermediate at Python and Javascript :)
-
-<hr>
-<div class="center">
-
-
-
-
-
-
-
-
-![Ali™'s github activity graph](https://activity-graph.herokuapp.com/graph?username=Ali-TM-original&theme=dracula)
+#### Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ali-TM-original&count_private=true&show_icons=true&theme=onedark" alt="Ali's github stats" />
+</a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-TM-original&theme=algolia">
+<br />
+<br />
 
-  ![Visitor Count](https://profile-counter.glitch.me/{Ali-TM-original}/count.svg)
-  
 
-</div>
+#### Contribution Graph
+![Ali™'s github activity graph](https://activity-graph.herokuapp.com/graph?username=Ali-TM-original&theme=react-dark)
 
-<hr>
 
-<br>
-<br>
+#### I Spent My Time On
+```text
+💬 Programming Lanuages:
+HTML                              ███████████░░░░░░░░░░░░░   46% 
+CSS                               █████████░░░░░░░░░░░░░░░   30% 
+Python                            ███████████████████░░░░░   80% 
+JS                                ████████████████░░░░░░░░░   70%
+Rust                              █████████░░░░░░░░░░░░░░░   30% 
+GitHub & Git                      █████████████░░░░░░░░░░░   50%
 
-<h3 class="center">Experience and Tools 🛠️</h3>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+🔥 Editors:
+VS Code                           █████████████████████████   90% 
+Pycharm                           ██████████████░░░░░░░░░░░   60%
+
+💻 Operating System:
+Linux Mint                       ██████████████████░░░░░░░  60.0%
+```
+
+
+```
+
+#### Links
+
+Website - https://www.alidev.tech/
