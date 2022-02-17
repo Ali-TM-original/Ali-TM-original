@@ -3,9 +3,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Ali™</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Welcome+to+my+github+profile!;I+am+a+full+stack+web+dev;I+am+an+average+CTF+enjoyer;I+am+a+React+Native+dev;I+am+a+Student+and+an+average+mint+user+%3A" /></a>
-</p>
-<p>Hey, 
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Welcome+to+my+github!;I+am+a+full+stack+web+dev;I+am+a+React+Native+dev;I+am+a+Student%3A" /></a>
 </p>
 <img align="right" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/computers.gif">
 <ul>
