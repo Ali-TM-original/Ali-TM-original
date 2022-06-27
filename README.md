@@ -6,12 +6,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Welcome+to+my+github!;I+am+a+full+stack+web+dev;I+am+a+React+Native+dev;I+am+a+Student%3A" /></a>
 </p>
 <img align="right" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/computers.gif">
-<ul>
-  <li>👋 Hi, I’m @Ali™</li>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>I am Currently learning Rust and Completing my Studies</li>
-  <li>Portfolio Website built with React JS, https://www.alidev.tech/</li>
-</ul>
+
 
 #### A little more about me
 ```fix
