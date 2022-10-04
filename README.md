@@ -8,28 +8,6 @@
 <img align="right" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/computers.gif">
 
 
-#### A little more about me
-```fix
-I am just a Student trying to learn the art of
-programming. I have around 16 months of
-experience till now, have really been 
-fascinated with the world of code. Lately I 
-have been gaining interested in mobile
-development, taking small steps learning 
-React Native and taking initiative of 
-learning Flutter/Dart Apart from that I am a 
-full stack web developer. 
-I have made multiple websites for
- local and global businesses.
-```
-
-#### My GitHub Data :octocat:
-> 🏆 700+ Contributions in the Year 2021
-> 
-> 📜 600+ Commits on GitHub
-> 
-> 🔑 30+ Contribution in Private Repos 
-> 
 
 #### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -60,11 +38,4 @@ Pycharm                           ██████████████░�
 
 💻 Operating System:
 Linux Mint                       ██████████████████░░░░░░░  60.0%
-```
 
-
-```
-
-#### Links
-
-Website - https://www.alidev.tech/
