@@ -1,10 +1,10 @@
 
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://www.alidev.tech/">Ali™</a>'s Profile 👋</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poor+Story&size=50&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I+am+a+Student;I+am+an+Artist" alt="Typing SVG" /></a>
 </p>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=Welcome+to+my+Profile!;I+am+a+full+stack+web+dev;I+am+a+Mobile+dev;I+am+a+Student" /></a>
-</p>
+
+<br></br>
+
 <img align="right" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/computers.gif">
 
 ![Ali™'s github activity graph](https://activity-graph.herokuapp.com/graph?username=Ali-TM-original&theme=react-dark)
