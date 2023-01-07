@@ -7,8 +7,6 @@
 
 <img align="right" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/computers.gif">
 
-![Ali™'s github activity graph](https://activity-graph.herokuapp.com/graph?username=Ali-TM-original&theme=react-dark)
-
 
 #### I Spent My Time On
 ```text
